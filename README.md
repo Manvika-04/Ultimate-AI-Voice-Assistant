@@ -47,6 +47,23 @@ Ultimate-AI-Voice-Assistant/
 # Installation
 
 ## Clone Repository
+# Project Screenshots
+
+## Home Interface
+
+![AI Assistant](AI%20Assistant.png)
+
+---
+
+## Voice Command Execution
+
+![AI Assistant](AI%20Assistant(1).png)
+
+---
+
+## Wake Word Detection & AI Response
+
+![AI Assistant](AI%20Assistant(2).png)
 
 ```bash
 git clone https://github.com/Manvika-04/Ultimate-AI-Voice-Assistant.git
