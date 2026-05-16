@@ -24,3 +24,11 @@ An AI-powered voice assistant built using Python and OpenAI.
 pip install -r requirements.txt
 
 python assistant.py
+
+## Project Screenshots
+
+![Screenshot 1](AI Assistant.png)
+
+![Screenshot 2](AI Assistant(1).png)
+
+![Screenshot 3](AI Assistant(2).png)
