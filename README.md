@@ -32,3 +32,13 @@ python assistant.py
 ![Screenshot 2](AI Assistant(1).png)
 
 ![Screenshot 3](AI Assistant(2).png)
+
+git clone https://github.com/Manvika-04/Ultimate-AI-Voice-Assistant.git
+
+## Project Screenshots
+
+![Screenshot 1](AI Assistant.png)
+
+![Screenshot 2](AI Assistant(1).png)
+
+![Screenshot 3](AI Assistant(2).png)
