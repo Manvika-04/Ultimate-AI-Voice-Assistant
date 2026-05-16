@@ -1,36 +1,52 @@
 # Ultimate AI Voice Assistant
 
-An AI-powered voice assistant built using Python and OpenAI.
+An AI-powered Voice Assistant built using Python and OpenAI API.  
+The assistant understands voice commands, performs automation tasks, opens applications/websites, and provides intelligent AI responses using natural language processing.
 
-## Features
-- Wake word detection
-- Open websites
+---
+
+# Features
+
+- Wake-word detection
+- Voice command recognition
 - Open applications
-- AI question answering
+- Open websites
+- AI-powered responses
 - Wikipedia search
 - Play YouTube songs
-- Productivity features
-- Voice interaction
+- Productivity tools
+- Voice interaction system
+- Automation support
 
-## Technologies Used
+---
+
+# Technologies Used
+
 - Python
 - OpenAI API
 - SpeechRecognition
 - pyttsx3
 - pywhatkit
+- NLP
+- Automation Libraries
 
-## Run Project
+---
 
-pip install -r requirements.txt
+# Project Structure
 
-python assistant.py
+Ultimate-AI-Voice-Assistant/
+│
+├── assistant.py
+├── requirements.txt
+├── .env
+├── .gitignore
+└── README.md
 
-## Project Screenshots
+---
 
-![Screenshot 1](AI Assistant.png)
+# Installation
 
-![Screenshot 2](AI Assistant(1).png)
+## Clone Repository
 
-![Screenshot 3](AI Assistant(2).png)
-
+```bash
 git clone https://github.com/Manvika-04/Ultimate-AI-Voice-Assistant.git
